@@ -7,3 +7,4 @@ function createParticle() {
 
   particle.style.left = Math.random() * window.innerWidth + "px";
   particle.style.top = Math.random() * window.innerHeight + "px";
+
