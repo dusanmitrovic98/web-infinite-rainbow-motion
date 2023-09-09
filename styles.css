@@ -38,3 +38,4 @@ body, html {
 
 @keyframes particleMove {
     0% {
+        transform: translate(0, 0);
