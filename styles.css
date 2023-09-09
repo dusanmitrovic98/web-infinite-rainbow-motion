@@ -34,3 +34,4 @@ body, html {
     background: rgba(255, 255, 255, 0.7);
     border-radius: 50%;
     animation: particleMove 8s linear infinite;
+}
