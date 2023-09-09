@@ -14,3 +14,4 @@ function createParticle() {
   particle.addEventListener("animationiteration", () => {
     container.removeChild(particle);
   });
+}
