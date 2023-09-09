@@ -8,3 +8,4 @@ function createParticle() {
   particle.style.left = Math.random() * window.innerWidth + "px";
   particle.style.top = Math.random() * window.innerHeight + "px";
 
+  particle.style.animationDuration = Math.random() * 5 + 2 + "s";
