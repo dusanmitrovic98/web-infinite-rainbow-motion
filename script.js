@@ -5,3 +5,4 @@ function createParticle() {
   particle.classList.add("particle");
   container.appendChild(particle);
 
+  particle.style.left = Math.random() * window.innerWidth + "px";
