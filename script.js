@@ -16,3 +16,4 @@ function createParticle() {
   });
 }
 
+setInterval(createParticle, 200);
