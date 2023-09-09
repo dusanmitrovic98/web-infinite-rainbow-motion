@@ -15,3 +15,4 @@ function createParticle() {
     container.removeChild(particle);
   });
 }
+
