@@ -12,3 +12,4 @@ function createParticle() {
   particle.style.animationDelay = Math.random() * 2 + "s";
 
   particle.addEventListener("animationiteration", () => {
+    container.removeChild(particle);
